@@ -1,2 +1,2 @@
 # fuzzy-guide
-Repository Creation Procedure for the Readme
+Repository Creation Procedure for the GitHub Readme for Anusaaraka
